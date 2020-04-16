@@ -70,7 +70,7 @@ Với level này thì trang không cho phép bôi đen và copy trực tiếp n�
 
 ![image-20200411233246761](images/image-20200411233246761.png)
 
-Ban đầu khi copy đoạn mã vào thì chúng có chứa ==<200b>== là (Unicode Character 'ZERO WIDTH SPACE’), chúng ta chỉ cần replace all nó đi là được
+Ban đầu khi copy đoạn mã vào thì chúng có chứa **<200b>** là (Unicode Character 'ZERO WIDTH SPACE’), chúng ta chỉ cần replace all nó đi là được
 
 ![image-20200411233312562](images/image-20200411233312562.png)
 
@@ -208,7 +208,7 @@ Kết quả là đó là 1 công cụ ping
 
 ![image-20200412224102087](images/image-20200412224102087.png)
 
-Chúng ta thử ==google.com;cat index.php== tuy nhiên nó đã chặn space => ta bypass bằng ==google.com;cat${IFS}index.php==
+Chúng ta thử **google.com;cat index.php** tuy nhiên nó đã chặn space => ta bypass bằng **google.com;cat${IFS}index.php**
 
 Trong đó **${IFS}** là 1 biến đặc biệt trong shell (**Internal Field Separator**) giá trị mặc định của nó là: **space, tab** hoặc **newline**
 
@@ -305,6 +305,6 @@ while(1){
 
 => Payload: AWib9e5 chuỗi gen ra là 0e153696
 
-==**Cách thứ 2**== đơn giản hơn đó là sử dụng bảng magic hash ở [link này](https://www.whitehatsec.com/blog/magic-hashes/) và payload là: 6586
+>  **Cách thứ 2** đơn giản hơn đó là sử dụng bảng magic hash ở [link này](https://www.whitehatsec.com/blog/magic-hashes/) và payload là: 6586
 
 `Flag{php_magic_type_casting_or_did_you_brute_force_it?}`
