@@ -18,7 +18,7 @@
 | 10   | [Login Form](LoginForm.md)                       | D    |
 | 11   | [We're out of idea, let's call it Web2](Web2.md) | C    |
 | 12   | [Web7](Web7.md)                                  | C    |
-|      |                                                  |      |
+| 13   | [Password Verify](PasswordVerify.md)             |      |
 |      |                                                  |      |
 |      |                                                  |      |
 |      |                                                  |      |
