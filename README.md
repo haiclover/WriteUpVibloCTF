@@ -20,7 +20,7 @@
 | 12   | [Web7](Web7.md)                                  | C    |
 | 13   | [Password Verify](PasswordVerify.md)             | C    |
 | 14   | [Web6](Web6.md)                                  | B    |
-|      |                                                  |      |
+| 15   | [Web5](Web5.md)                                  | B    |
 |      |                                                  |      |
 |      |                                                  |      |
 |      |                                                  |      |
